@@ -416,7 +416,7 @@ export default {
                         <div>
                             <h3 class="text-xl font-semibold text-red-500">Phone</h3>
                             <p class="text-gray-400 mt-2">
-                                +91 09768 262139
+                                +91 97682 62139
                             </p>
                         </div>
 

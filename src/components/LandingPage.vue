@@ -468,7 +468,7 @@ export default {
                 <p class="mt-1 text-gray-500">
                     Created by
                     <a href="https://www.linkedin.com/in/raj-chauhan-5bb540312/" target="_blank"
-                        class="text-yellow-500 hover:text-yellow-400 font-medium transition">
+                        class="text-red-500 hover:text-red-400 font-medium transition">
                         Raj Chauhan
                     </a>
                 </p>
